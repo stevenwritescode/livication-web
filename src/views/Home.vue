@@ -191,7 +191,7 @@
               Livication can provide on-site live sound engineering.
             </p>
             <v-divider width="200" class="mx-auto mb-3"></v-divider>
-            <h2 class="headline font-weight-bold mb-3">AUTOMATE EVERYTHING</h2>
+            <h2 class="headline font-weight-bold mb-3">CUSTOM AUTOMATION</h2>
             <v-img
               :src="require('@/assets/automation.jpg')"
               class="mx-auto my-3"
