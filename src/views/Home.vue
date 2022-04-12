@@ -7,18 +7,17 @@
         height="300"
       >
         <v-row align="center" justify="center">
-          <v-col class="text-center" cols="12">
+          <v-col class="text-center">
             <v-img
               :src="require('@/assets/Livication_Logo_Light.svg')"
-              class="my-3"
               contain
-              height="100"
+              max-height="100"
             />
           </v-col>
         </v-row>
       </v-parallax>
     </template>
-    <v-sheet elevation="2" width="960" class="mx-auto">
+    <v-sheet elevation="2" max-width="960" class="mx-auto">
       <v-container>
         <v-row class="text-center">
           <v-col cols="12"> </v-col>
